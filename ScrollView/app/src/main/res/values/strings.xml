@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">ScrollView</string>
+    <string name="isi">
+         penyakit koronavirus 2019 (Covid-19) yang sedang berlangsung di seluruh dunia.
+        Penyakit ini disebabkan oleh koronavirus sindrom pernapasan akut berat 2 (SARS-CoV-2).
+        Kasus positif Covid-19 di Indonesia pertama kali dideteksi pada tanggal 2 Maret 2020,
+        ketika dua orang terkonfirmasi tertular dari seorang warga negara Jepang.
+        Pada tanggal 9 April, pandemi sudah menyebar ke 34 provinsi dengan DKI Jakarta,
+        Jawa Barat dan Jawa Tengah sebagai provinsi paling terpapar SARS-CoV-2 di Indonesia.
+
+        \n\n\n\n
+       Sampai tanggal 17 Desember 2021, Indonesia telah melaporkan 4.260.148 kasus positif
+        menempati peringkat pertama terbanyak di Asia Tenggara. Dalam hal angka kematian,
+        Indonesia menempati peringkat ketiga terbanyak di Asia dengan 143.986 kematian.
+        Namun, angka kematian diperkirakan jauh lebih tinggi dari data yang dilaporkan
+        lantaran tidak dihitungnya kasus kematian dengan gejala Covid-19 akut yang belum
+        dikonfirmasi atau dites.[5][6] Sementara itu, diumumkan 4.111.250 orang telah sembuh,
+        menyisakan 4.912 kasus yang sedang dirawat.[1] Pemerintah Indonesia telah menguji 40.090.094
+        orang dari total 269 juta penduduk, yang berarti hanya sekitar 148.700 orang per satu juta penduduk
+        </string>>
+</resources>
